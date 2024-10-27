@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "lldap",
+      "type": "top.wolcen.lldap.autoconfigure.LldapProperties",
+      "sourceType": "top.wolcen.lldap.autoconfigure.LldapProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "lldap.basedn",
+      "type": "java.lang.String",
+      "sourceType": "top.wolcen.lldap.autoconfigure.LldapProperties"
+    },
+    {
+      "name": "lldap.url",
+      "type": "java.lang.String",
+      "sourceType": "top.wolcen.lldap.autoconfigure.LldapProperties"
+    }
+  ],
+  "hints": []
+}
